@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+    반갑습니다. 신입 백엔드 개발자 최연우 입니다. 
+</p>
 
 <!--
 **Potatoplz/Potatoplz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

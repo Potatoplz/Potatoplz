@@ -7,7 +7,7 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Potatoplz"/>
+  <img src="https://render.gitanimals.org/farms/Potatoplz" width='400'/>
 </a>
 
 </div>
